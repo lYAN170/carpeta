@@ -2,6 +2,13 @@
 
 ---
 
+## Registro de Usuario
+
+
+<div style="display: flex; justify-content: space-between;">
+  <img src= "https://github.com/lYAN170/carpeta/assets/169726463/69172d31-741e-481e-9256-f20aca1dccd2" alt="Imagen 1" style="width: 38%;"/>
+  <img src="https://github.com/lYAN170/carpeta/assets/169726463/1a46d516-d2d6-4986-bf52-07fd6deed30e" alt="Imagen 2" style="width: 38%;"/>
+</div>
 
 ### Loyout
 
