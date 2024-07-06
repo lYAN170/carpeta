@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "957941803814",
+    "project_id": "toqen-peru",
+    "storage_bucket": "toqen-peru.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957941803814:android:37d345aa895c2b8846efe7",
+        "android_client_info": {
+          "package_name": "com.store.toqenperu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmw1FhgdxvbrIlzQ1q20bRVp9ruUdQnH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

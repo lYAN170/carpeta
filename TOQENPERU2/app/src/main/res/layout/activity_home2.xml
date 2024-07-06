@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HomeActivity2"
+    android:background="@drawable/pc">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="BIENVENIDOS A TOQEN VENTAS ONLINE"
+        android:textAlignment="center"
+        android:layout_marginTop="20dp"
+        android:textSize="20dp"
+        android:textColor="@color/white_700"
+        />
+
+    <Button
+
+        android:id="@+id/botonusuario"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:padding="10dp"
+        android:text="USUARIO"
+        android:background="@drawable/botones1"
+        android:textColor="@color/white_700"
+        android:layout_above="@id/botonadministrador"/>
+
+    <Button
+        android:id="@+id/botonadministrador"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:background="@drawable/botones1"
+        android:text="ADMINISTRADOR"
+        android:textColor="@color/white_700"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="100dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp"
+        />
+
+
+</RelativeLayout>
+
